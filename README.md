@@ -9,5 +9,6 @@
 - 🧬 [Multi-omics survival modelling in kidney cancer](https://github.com/hongfangyu123/tcga-kirc-multiomics-survival) · *R*
 - 🏥 [ICU mortality in diabetic neuropathy (MIMIC-IV)](https://github.com/hongfangyu123/BMI5101-DN-Mortality-P16) · *Python*, group project
 - 🛩️ [UAV swarm smoke-screen optimisation (CUMCM 2025)](https://github.com/hongfangyu123/cumcm2025-uav-smoke-screen) · *MATLAB, Python*, contest team
+- 📊 [Undergraduate maths & stats projects](https://github.com/hongfangyu123/undergrad-math-stats-projects): queueing simulation, CCA, conformal maps, C · *Python, R, C*
 
 [LinkedIn](https://www.linkedin.com/in/fangyu-hong-62ab5844b/) · Singapore
